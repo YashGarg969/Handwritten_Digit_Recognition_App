@@ -27,3 +27,8 @@ This app can be really fun to play with! You can challenge yourself to draw diff
 # Conclusion:
 In a nutshell, this project is about creating an Android app that turns your finger drawings of numbers into predictions. It uses a smart model to understand your drawings and guess the number you intended. It's a mix of creativity, technology, and a little bit of magic!
 
+# Google Drive Video Link:
+https://drive.google.com/file/d/16SbBgib_mkzwK6cDpBr0vXwV5pGR129L/view?usp=drive_link
+
+
+
